@@ -1,4 +1,4 @@
 # PROYECTO-CSS-XTR
 Proyecto CSS Website
-* https://moisesarroyo.github.io/PaginaVacuna-LaunchX/
+* https://azriel1909.github.io/PROYECTO-CSS-XTR/
 * Elaborado por Ximena Toledo Rivera
